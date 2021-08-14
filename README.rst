@@ -197,4 +197,4 @@ Each ticket will contain the command to run that ticket's specific unit tests.
 
 The final home page will look like this:
 
-.. image:: https://raw.githubusercontent.com/nirajdpandey/MongoDB-for-python-developers/blob/main/demo_image/home_page_.png
+.. image:: https://github.com/nirajdpandey/MongoDB-for-python-developers/blob/main/demo_image/home_page_.png
